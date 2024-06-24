@@ -1,0 +1,17 @@
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\bin\Debug\net6.0-windows\CheckSumCalculator.exe
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\bin\Debug\net6.0-windows\CheckSumCalculator.deps.json
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\bin\Debug\net6.0-windows\CheckSumCalculator.runtimeconfig.json
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\bin\Debug\net6.0-windows\CheckSumCalculator.dll
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\bin\Debug\net6.0-windows\CheckSumCalculator.pdb
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.csproj.AssemblyReference.cache
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.Form1.resources
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.csproj.GenerateResource.cache
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.AssemblyInfoInputs.cache
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.AssemblyInfo.cs
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.dll
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\refint\CheckSumCalculator.dll
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.pdb
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\CheckSumCalculator.genruntimeconfig.cache
+C:\Users\choudhurya2\OneDrive - NOV Inc\Work\Projects\FGS Filestore issue\CheckSumCalculator\obj\Debug\net6.0-windows\ref\CheckSumCalculator.dll
